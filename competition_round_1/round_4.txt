@@ -1,0 +1,14 @@
+{
+  "NUC": {
+    "cumulativeScore": 154,
+    "wins": 2
+  },
+  "Uspator": {
+    "cumulativeScore": 196,
+    "wins": 12
+  },
+  "Jonebot": {
+    "cumulativeScore": 208,
+    "wins": 6
+  }
+}

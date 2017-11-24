@@ -1,0 +1,14 @@
+{
+  "Fire-Sausage": {
+    "cumulativeScore": 33,
+    "wins": 0
+  },
+  "Daisuki": {
+    "cumulativeScore": 456,
+    "wins": 8
+  },
+  "BistroLePot": {
+    "cumulativeScore": 460,
+    "wins": 12
+  }
+}

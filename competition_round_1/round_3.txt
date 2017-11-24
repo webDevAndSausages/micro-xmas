@@ -1,0 +1,14 @@
+{
+  "ForTheEmpire": {
+    "cumulativeScore": 117,
+    "wins": 0
+  },
+  "Amit": {
+    "cumulativeScore": 524,
+    "wins": 0
+  },
+  "Pipari": {
+    "cumulativeScore": 550,
+    "wins": 17
+  }
+}
