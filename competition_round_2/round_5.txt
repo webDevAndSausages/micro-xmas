@@ -1,0 +1,14 @@
+{
+  "ForTheEmpire": {
+    "cumulativeScore": 1329,
+    "wins": 0
+  },
+  "BistroLePot": {
+    "cumulativeScore": 5564,
+    "wins": 1
+  },
+  "Pipari": {
+    "cumulativeScore": 4640,
+    "wins": 15
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "ForTheEmpire": {
+    "cumulativeScore": 100,
+    "wins": 0
+  },
+  "NUC": {
+    "cumulativeScore": 238,
+    "wins": 10
+  },
+  "Pipari": {
+    "cumulativeScore": 235,
+    "wins": 10
+  }
+}

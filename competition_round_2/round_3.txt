@@ -1,0 +1,14 @@
+{
+  "Pipari": {
+    "cumulativeScore": 112,
+    "wins": 2
+  },
+  "NUC": {
+    "cumulativeScore": 204,
+    "wins": 5
+  },
+  "Uspator": {
+    "cumulativeScore": 192,
+    "wins": 13
+  }
+}

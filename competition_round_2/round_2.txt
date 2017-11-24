@@ -1,0 +1,14 @@
+{
+  "ForTheEmpire": {
+    "cumulativeScore": 223,
+    "wins": 0
+  },
+  "Daisuki": {
+    "cumulativeScore": 500,
+    "wins": 9
+  },
+  "BistroLePot": {
+    "cumulativeScore": 544,
+    "wins": 11
+  }
+}

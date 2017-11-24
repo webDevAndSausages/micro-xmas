@@ -1,0 +1,114 @@
+[
+  [
+    {
+      "name": "ForTheEmpire",
+      "url": "http://178.79.140.72"
+    },
+    {
+      "name": "Pipari",
+      "url": "http://pipari.konsta.me:8080"
+    },
+    {
+      "name": "NUC",
+      "url": "http://www.peukalo.net/nuc"
+    }
+  ],
+  [
+    {
+      "name": "Uspator",
+      "url": "http://teambuddy.azurewebsites.net"
+    },
+    {
+      "name": "Jonebot",
+      "url": "https://sleepy-falls-42478.herokuapp.com"
+    },
+    {
+      "name": "Fire-Sausage",
+      "url": "https://us-central1-fire-sausage.cloudfunctions.net/battle"
+    }
+  ],
+  [
+    {
+      "name": "Daisuki",
+      "url": "http://battle.hell.fi"
+    },
+    {
+      "name": "BistroLePot",
+      "url": "https://battlecubebot.herokuapp.com"
+    },
+    {
+      "name": "ForTheEmpire",
+      "url": "http://178.79.140.72"
+    }
+  ],
+  [
+    {
+      "name": "Pipari",
+      "url": "http://pipari.konsta.me:8080"
+    },
+    {
+      "name": "NUC",
+      "url": "http://www.peukalo.net/nuc"
+    },
+    {
+      "name": "Uspator",
+      "url": "http://teambuddy.azurewebsites.net"
+    }
+  ],
+  [
+    {
+      "name": "Jonebot",
+      "url": "https://sleepy-falls-42478.herokuapp.com"
+    },
+    {
+      "name": "Fire-Sausage",
+      "url": "https://us-central1-fire-sausage.cloudfunctions.net/battle"
+    },
+    {
+      "name": "Daisuki",
+      "url": "http://battle.hell.fi"
+    }
+  ],
+  [
+    {
+      "name": "BistroLePot",
+      "url": "https://battlecubebot.herokuapp.com"
+    },
+    {
+      "name": "ForTheEmpire",
+      "url": "http://178.79.140.72"
+    },
+    {
+      "name": "Pipari",
+      "url": "http://pipari.konsta.me:8080"
+    }
+  ],
+  [
+    {
+      "name": "NUC",
+      "url": "http://www.peukalo.net/nuc"
+    },
+    {
+      "name": "Uspator",
+      "url": "http://teambuddy.azurewebsites.net"
+    },
+    {
+      "name": "Jonebot",
+      "url": "https://sleepy-falls-42478.herokuapp.com"
+    }
+  ],
+  [
+    {
+      "name": "Fire-Sausage",
+      "url": "https://us-central1-fire-sausage.cloudfunctions.net/battle"
+    },
+    {
+      "name": "Daisuki",
+      "url": "http://battle.hell.fi"
+    },
+    {
+      "name": "BistroLePot",
+      "url": "https://battlecubebot.herokuapp.com"
+    }
+  ]
+]

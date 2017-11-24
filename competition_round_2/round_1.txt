@@ -1,0 +1,14 @@
+{
+  "Uspator": {
+    "cumulativeScore": 137,
+    "wins": 5
+  },
+  "Jonebot": {
+    "cumulativeScore": 136,
+    "wins": 9
+  },
+  "Fire-Sausage": {
+    "cumulativeScore": 139,
+    "wins": 6
+  }
+}
